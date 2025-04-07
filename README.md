@@ -1,22 +1,23 @@
 Stylish Footwear – React E-commerce Website
+
 Welcome to Stylish Footwear, a sleek and fashionable e-commerce platform crafted with React.js! This project offers an intuitive shopping experience for users to explore, review, and purchase stylish footwear with ease.
 
 
-Overview
+Overview -
 ✅ Built with React.js for an interactive and modern user interface
 ✅ Utilizes React Router for seamless navigation between pages and product categories
 ✅ Integrated Redux for efficient state management across the app
 ✅ Secure and structured form validation for user inputs during sign-up and checkout
 ✅ Uses a mock API to simulate real-time product data retrieval and management
 
-Tech Stack
+Tech Stack -
 ✅ React.js – Frontend framework
 ✅ React Router – Navigation between views
 ✅ Redux / Context API – State handling
 ✅ Axios / Fetch API – Data fetching
 ✅ Bootstrap / Custom CSS – Styling and responsiveness
 
-Features
+Features -
 ✅ Browse a curated catalog of stylish footwear
 ✅ Filter products by size, price, and category
 ✅ Add items to cart and manage order summary
